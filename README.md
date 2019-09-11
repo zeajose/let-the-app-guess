@@ -1,5 +1,5 @@
-# First-teachable-machine
-This is a teachable machine using tensorflow.js to do custom 3-class object classifier using your webcam on the fly.
+# Let the App Guess
+This is an image classfier using tensorflow.js using your webcam on the fly.
 
 ## How it works?
 
@@ -10,19 +10,21 @@ It is train with MobileNet to do image classification in the browser and uses tr
 
 - Once you copy the repository, simply open index.html in a Web Browser 
 - Allow webcam
-- Show 3-types of objects and classify them with your webcam
 
 
 ## Screeshots
 
 <div>
-  Object A 
+  My Flower
   <img src="public/object_a.png" />
   <br>
-  Object B 
+  My Cup
   <img src="public/object_b.png" />
   <br>
-  Object C 
+  My Iphone
   <img src="public/object_c.png" />
   
 <div/>
+
+You may also like the other app I have "My first teachable machine" 
+https://github.com/zeajose/first-teachable-machine
