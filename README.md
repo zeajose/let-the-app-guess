@@ -25,3 +25,6 @@ It is train with MobileNet to do image classification in the browser and uses tr
   <img src="public/object_c.png" />
   
 <div/>
+
+You may also like the other app I have "My first teachable machine" 
+https://github.com/zeajose/first-teachable-machine
