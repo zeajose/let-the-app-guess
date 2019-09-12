@@ -3,7 +3,7 @@ This is an image classfier using tensorflow.js using your webcam on the fly.
 
 ## Live demo
 
-https://let-the-app-guess.herokuapp.com (give it a few second to load)
+https://let-the-app-guess.herokuapp.com
 
 ## How it works?
 
