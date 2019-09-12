@@ -30,5 +30,6 @@ It is train with MobileNet to do image classification in the browser and uses tr
   
 <div/>
 
-You may also like the other app I have "My first teachable machine" 
+## You may also like
+Another other app I have called "My first teachable machine":
 https://github.com/zeajose/first-teachable-machine
