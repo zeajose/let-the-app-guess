@@ -11,9 +11,9 @@ It is train with MobileNet to do image classification in the browser and uses tr
 
 
 ## How to use it?
-
-- Once you copy the repository, simply open index.html in a Web Browser 
-- Allow webcam
+- Go to https://let-the-app-guess.herokuapp.com
+- OR copy the repository and open index.html in a Web Browser 
+- Allow webcam, voila!
 
 
 ## Screeshots
