@@ -1,7 +1,7 @@
 # Let the App Guess
 This is an image classfier using tensorflow.js using your webcam on the fly.
 
-## Live Demo
+## Live demo
 
 https://let-the-app-guess.herokuapp.com
 
